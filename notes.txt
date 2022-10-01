@@ -1,0 +1,5 @@
+pip install pyttsx3 - (text to speech)
+
+pip install PyPDF2 - (read and manipulate pdfs)
+
+python -m pip install --upgrade pip  - (upgrade pip version)
